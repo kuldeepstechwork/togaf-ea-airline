@@ -1,6 +1,6 @@
 # TOGAF Enterprise Architecture Case Study — Halvern Air
 
-**Disclaimer:** This repository is a fictional Enterprise Architecture case study created for portfolio and demonstration purposes. Halvern Air is an invented company — it is not a real organization, and nothing here describes, discloses, or is derived from the systems, data, or intellectual property of any real employer, client, or company, past or present. All figures, architectures, vendor comparisons, and cost estimates are illustrative, created for this exercise, and do not represent real financial or technical data. Any resemblance to actual companies, products, or systems is coincidental.
+**Disclaimer:** This is an illustrative TOGAF Enterprise Architecture case study modeling common, publicly known challenges in airline digital retailing — not a real engagement. Halvern Air is an invented name, not affiliated with any real company, and nothing here is based on confidential information from any real employer or client. All figures, vendor names, and technical details are constructed for this exercise.
 
 ---
 
@@ -32,3 +32,6 @@ Start with [TOGAF-ADM-MAPPING.md](TOGAF-ADM-MAPPING.md) for a one-page map of ev
 - [adrs/](adrs/) — Five architecturally significant decisions recorded in standard ADR format.
 
 Every figure in this repository — costs, timelines, vendor scores, maturity ratings — is invented for illustrative purposes and clearly framed as such throughout.
+
+---
+*Fictional case study — see disclaimer above for full context.*
