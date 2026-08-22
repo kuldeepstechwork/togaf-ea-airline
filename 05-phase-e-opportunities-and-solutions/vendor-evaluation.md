@@ -30,12 +30,12 @@ Scores are 1 (poor fit) to 5 (excellent fit); weights reflect priority set joint
 
 | Vendor | Weighted Total |
 |---|---|
-| **Vendor A — Aeronova Retail Suite** | **4.05** |
-| Vendor B — Farepoint Distribution Cloud | 3.80 |
-| Vendor C — Meridian Commerce Platform | 2.55 |
-| Vendor D — SkyLedger Systems | 2.35 |
+| **Vendor A — Aeronova Retail Suite** | **3.95** |
+| Vendor B — Farepoint Distribution Cloud | 3.70 |
+| Vendor C — Meridian Commerce Platform | 2.50 |
+| Vendor D — SkyLedger Systems | 2.45 |
 
-*Weighted total = Σ(criterion score × weight). Example calculation for Vendor A: (5×0.20)+(4×0.15)+(3×0.15)+(4×0.15)+(3×0.15)+(5×0.10)+(4×0.05)+(3×0.05) = 1.00+0.60+0.45+0.60+0.45+0.50+0.20+0.15 = 4.05.*
+*Weighted total = Σ(criterion score × weight). Example calculation for Vendor A: (5×0.20)+(4×0.15)+(3×0.15)+(4×0.15)+(3×0.15)+(5×0.10)+(4×0.05)+(3×0.05) = 1.00+0.60+0.45+0.60+0.45+0.50+0.20+0.15 = 3.95.*
 
 ## Recommendation
 
